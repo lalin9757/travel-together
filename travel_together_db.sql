@@ -1,0 +1,2 @@
+CREATE DATABASE travel_together_db;
+SHOW DATABASES;
